@@ -1,0 +1,1599 @@
+{
+  "threaded_extended": {
+
+  },
+  "messages": [
+    {
+      "id": 854474768,
+      "sender_id": 1604180513,
+      "replied_to_id": null,
+      "created_at": "2017/03/06 09:11:10 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/854474768",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/854474768",
+      "group_id": 9007615,
+      "title": "Anzeigen Kalkulation",
+      "body": {
+        "parsed": "Bei den INDI Anlagen kann eine Übersicht der Kalkulation eingeblendet werden.\nBasierend auf den Material- und Fertigungskosten können Berechnungen hinsichtlich Herstellungskosten 1 und 2, Selbstkosten und Verrechnungspreis usw. angezeigt werden.\n\nBerechnung und Darstellung wird über ein Excel-File gesteuert. (va/pewo-data/Kalkulation/Kalkulation_Schema.xlsx)\nDer Import wird im PIM über Einstellungen / Import \u0026 Export - Schemata für Zuschläge Importieren ausgelöst.\n\n- var = stellt die Variable da mit der in der Spalte calculation gerechnet werden soll\n- title = Anzeige der Zeile im PIM\n- calculation = hier findet die Berechnung des Ausgabewertes statt\n  - $(material) = in der Excel definierte Variable (weitestgehend frei definierbar)\n  - $$(material) = Summe der Materialkosten aus dem PIM (eingehender Wert der für die Berechnung genutzt werden kann)\n  - $$(production) = Summe der Fertigungskosten aus dem PIM (...)\n- display = Darstellungsoption der jeweiligen Zeile\n  - bold\n  - normal\n\n\n",
+        "plain": "Bei den INDI Anlagen kann eine Übersicht der Kalkulation eingeblendet werden.\nBasierend auf den Material- und Fertigungskosten können Berechnungen hinsichtlich Herstellungskosten 1 und 2, Selbstkosten und Verrechnungspreis usw. angezeigt werden.\n\nBerechnung und Darstellung wird über ein Excel-File gesteuert. (va/pewo-data/Kalkulation/Kalkulation_Schema.xlsx)\nDer Import wird im PIM über Einstellungen / Import \u0026 Export - Schemata für Zuschläge Importieren ausgelöst.\n\n- var = stellt die Variable da mit der in der Spalte calculation gerechnet werden soll\n- title = Anzeige der Zeile im PIM\n- calculation = hier findet die Berechnung des Ausgabewertes statt\n- $(material) = in der Excel definierte Variable (weitestgehend frei definierbar)\n- $$(material) = Summe der Materialkosten aus dem PIM (eingehender Wert der für die Berechnung genutzt werden kann)\n- $$(production) = Summe der Fertigungskosten aus dem PIM (...)\n- display = Darstellungsoption der jeweiligen Zeile\n- bold\n- normal",
+        "rich": "\u003Cp\u003EBei den INDI Anlagen kann eine Übersicht der Kalkulation eingeblendet werden.\u003C/p\u003E\u003Cp\u003EBasierend auf den Material- und Fertigungskosten können Berechnungen hinsichtlich Herstellungskosten 1 und 2, Selbstkosten und Verrechnungspreis usw. angezeigt werden.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003EBerechnung und Darstellung wird über ein Excel-File gesteuert. (va/pewo-data/Kalkulation/Kalkulation_Schema.xlsx)\u003C/p\u003E\u003Cp\u003EDer Import wird im PIM über \u003Cem\u003EEinstellungen / Import \u0026amp; Export - Schemata für Zuschläge\u003C/em\u003E Importieren ausgelöst.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli\u003Evar = stellt die Variable da mit der in der Spalte \u003Cem\u003Ecalculation\u003C/em\u003E gerechnet werden soll\u003C/li\u003E\u003Cli\u003Etitle = Anzeige der Zeile im PIM\u003C/li\u003E\u003Cli\u003Ecalculation = hier findet die Berechnung des Ausgabewertes statt\u003C/li\u003E\u003Cul\u003E\u003Cli\u003E$(material) = in der Excel definierte Variable (weitestgehend frei definierbar)\u003C/li\u003E\u003Cli\u003E$$(material) = Summe der Materialkosten aus dem PIM (eingehender Wert der für die Berechnung genutzt werden kann)\u003C/li\u003E\u003Cli\u003E$$(production) = Summe der Fertigungskosten aus dem PIM (...)\u003C/li\u003E\u003C/ul\u003E\u003Cli\u003Edisplay = Darstellungsoption der jeweiligen Zeile\u003C/li\u003E\u003Cul\u003E\u003Cli\u003Ebold\u003C/li\u003E\u003Cli\u003Enormal\u003C/li\u003E\u003C/ul\u003E\u003C/ul\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 854474768,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 83512195,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/83512195",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/83512195",
+          "type": "image",
+          "name": "Screenshot 2017-03-06 10.04.48.png",
+          "original_name": "Screenshot 2017-03-06 10.04.48.png",
+          "full_name": "Screenshot 2017-03-06 10.04.48",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/03/06 09:05:15 +0000",
+          "owner_id": 1604180513,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/version/83507426/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/preview/Screenshot%202017-03-06%2010.04.48.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/version/83507426/large_preview/Screenshot%202017-03-06%2010.04.48.png",
+          "size": 367721,
+          "last_uploaded_at": "2017/03/06 09:05:16 +0000",
+          "last_uploaded_by_id": 1604180513,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/83512195/Screenshot 2017-03-06 10.04.48.png",
+          "y_id": 83512195,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/version/83507426/preview/Screenshot%202017-03-06%2010.04.48.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 951,
+          "width": 1724,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/version/83507426/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/83512195/preview/Screenshot%202017-03-06%2010.04.48.png",
+            "size": 367721,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83512195/version/83507426/thumbnail"
+          },
+          "latest_version_id": 83507426,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "Bei den INDI Anlagen kann eine Übersicht der Kalkulation eingeblendet werden.\nBasierend auf den Material- und Fertigungskosten können Berechnungen hinsichtlich Herstellungskosten 1 und 2, Selbstkosten und Verrechnungspreis usw. angezeigt werden.\n\nBerechnung und Darstellung wird über ein Excel-File gesteuert. (va/pewo-data/Kalkulation/Kalkulation_Schema.xlsx)\nDer Import wird im PIM über Einstellungen / Import \u0026 Export - Schemata für Zuschläge Importieren ausgelöst.\n\n- var = stellt die Variable da mit der in der Spalte calculation gerechnet werden soll\n- title = Anzeige der Zeile im PIM\n- calculation = hier findet die Berechnung des Ausgabewertes statt\n- $(material) = in der Excel definierte Variable (weitestgehend frei definierbar)\n- $$(material) = Summe der Materialkosten aus dem PIM (eingehender Wert der für die Berechnung genutzt werden kann)\n- $$(production) = Summe der Fertigungskosten aus dem PIM (...)\n- display = Darstellungsoption der jeweiligen Zeile\n- bold\n- normal",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 853645763,
+      "sender_id": 1604180513,
+      "replied_to_id": 853618730,
+      "created_at": "2017/03/03 12:13:15 +0000",
+      "network_id": 3240736,
+      "message_type": "update",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/853645763",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/853645763",
+      "group_id": 9007615,
+      "body": {
+        "parsed": "bitte beachten: Vollen Zugriff auf diese Funktionen haben nur höhere Benutzerrollen",
+        "plain": "bitte beachten: Vollen Zugriff auf diese Funktionen haben nur höhere Benutzerrollen",
+        "rich": "bitte beachten: Vollen Zugriff auf diese Funktionen haben nur höhere Benutzerrollen"
+      },
+      "thread_id": 853618730,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "bitte beachten: Vollen Zugriff auf diese Funktionen haben nur höhere Benutzerrollen",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 853638256,
+      "sender_id": 1580999847,
+      "replied_to_id": 853618730,
+      "created_at": "2017/03/03 11:59:27 +0000",
+      "network_id": 3240736,
+      "message_type": "update",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/853638256",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/853638256",
+      "group_id": 9007615,
+      "body": {
+        "parsed": "Die Definition der der Filter und Spalten im Gerätefinder wird [[user:1587459223]] mit der Planungsabteilung abstimmen. Umsetzung erfolgt dann in der Stammdatenpflege.",
+        "plain": "Die Definition der der Filter und Spalten im Gerätefinder wird Matthias Petrick mit der Planungsabteilung abstimmen. Umsetzung erfolgt dann in der Stammdatenpflege.",
+        "rich": "Die Definition der der Filter und Spalten im Gerätefinder wird \u003Cspan class='yammer-object' data-yammer-object='user:1587459223' data-resource-id='1587459223' data-resource-model='user'\u003E\u003Ca href='https://www.yammer.com/pewo365.onmicrosoft.com/users/1587459223'\u003EMatthias Petrick\u003C/a\u003E\u003C/span\u003E mit der Planungsabteilung abstimmen. Umsetzung erfolgt dann in der Stammdatenpflege."
+      },
+      "thread_id": 853618730,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+        1587459223
+      ],
+      "privacy": "public",
+      "attachments": [
+
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "Die Definition der der Filter und Spalten im Gerätefinder wird Matthias Petrick mit der Planungsabteilung abstimmen. Umsetzung erfolgt dann in der Stammdatenpflege.",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 853618730,
+      "sender_id": 1604180513,
+      "replied_to_id": null,
+      "created_at": "2017/03/03 11:20:17 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/853618730",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/853618730",
+      "group_id": 9007615,
+      "title": "Ansicht Geräte/Materialfinder konfigurieren",
+      "body": {
+        "parsed": "Der Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\nMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\n\nFür höhere Benutzergruppen gibt es die Möglichkeit die Sichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie zu definieren. (Setting / Kategorien)\n\nFilter:\n- angezeigt im primären, immer eingeblendeten Filterbereich = grün\n- angezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\n- wird nicht im Filter angezeigt = rot\nTabelle\n- angezeigt = grün\n- nicht angezeigt = rot\n\n\n\n",
+        "plain": "Der Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\nMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\n\nFür höhere Benutzergruppen gibt es die Möglichkeit die Sichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie zu definieren. (Setting / Kategorien)\n\nFilter:\n- angezeigt im primären, immer eingeblendeten Filterbereich = grün\n- angezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\n- wird nicht im Filter angezeigt = rot\nTabelle\n- angezeigt = grün\n- nicht angezeigt = rot",
+        "rich": "\u003Cp\u003EDer Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\u003C/p\u003E\u003Cp\u003EMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003EFür höhere Benutzergruppen gibt es die Möglichkeit die \u003Cstrong\u003ESichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie\u003C/strong\u003E zu definieren. (Setting / Kategorien)\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003EFilter:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003Eangezeigt im primären, immer eingeblendeten Filterbereich = grün\u003C/li\u003E\u003Cli\u003Eangezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\u003C/li\u003E\u003Cli\u003Ewird nicht im Filter angezeigt = rot\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003ETabelle\u003C/p\u003E\u003Cul\u003E\u003Cli\u003Eangezeigt = grün\u003C/li\u003E\u003Cli\u003Enicht angezeigt = rot\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 853618730,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 83331632,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/83331632",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/83331632",
+          "type": "image",
+          "name": "2017-03-03_1215.png",
+          "original_name": "2017-03-03_1215.png",
+          "full_name": "2017-03-03_1215",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/03/03 11:18:41 +0000",
+          "owner_id": 1604180513,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://canary.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://canary.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/version/83322400/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/preview/2017-03-03_1215.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/version/83322400/large_preview/2017-03-03_1215.png",
+          "size": 386517,
+          "last_uploaded_at": "2017/03/03 11:18:43 +0000",
+          "last_uploaded_by_id": 1604180513,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/83331632/2017-03-03_1215.png",
+          "y_id": 83331632,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/version/83322400/preview/2017-03-03_1215.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 1410,
+          "width": 1449,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/version/83322400/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/83331632/preview/2017-03-03_1215.png",
+            "size": 386517,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83331632/version/83322400/thumbnail"
+          },
+          "latest_version_id": 83322400,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        },
+        {
+          "id": 83331655,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/83331655",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/83331655",
+          "type": "image",
+          "name": "Screenshot 2017-03-03 12.05.07.png",
+          "original_name": "Screenshot 2017-03-03 12.05.07.png",
+          "full_name": "Screenshot 2017-03-03 12.05.07",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/03/03 11:18:57 +0000",
+          "owner_id": 1604180513,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://canary.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://canary.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/version/83322423/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/preview/Screenshot%202017-03-03%2012.05.07.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/version/83322423/large_preview/Screenshot%202017-03-03%2012.05.07.png",
+          "size": 27841,
+          "last_uploaded_at": "2017/03/03 11:18:57 +0000",
+          "last_uploaded_by_id": 1604180513,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/83331655/Screenshot 2017-03-03 12.05.07.png",
+          "y_id": 83331655,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/version/83322423/preview/Screenshot%202017-03-03%2012.05.07.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 386,
+          "width": 487,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/version/83322423/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/83331655/preview/Screenshot%202017-03-03%2012.05.07.png",
+            "size": 27841,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/83331655/version/83322423/thumbnail"
+          },
+          "latest_version_id": 83322423,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 1,
+        "names": [
+          {
+            "full_name": "Robin Petrick",
+            "permalink": "robinpetrick",
+            "user_id": 1580999847,
+            "network_id": 3240736
+          }
+        ]
+      },
+      "content_excerpt": "Der Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\nMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\n\nFür höhere Benutzergruppen gibt es die Möglichkeit die Sichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie zu definieren. (Setting / Kategorien)\n\nFilter:\n- angezeigt im primären, immer eingeblendeten Filterbereich = grün\n- angezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\n- wird nicht im Filter angezeigt = rot\nTabelle\n- angezeigt = grün\n- nicht angezeigt = rot",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 839507101,
+      "sender_id": 1604180513,
+      "replied_to_id": null,
+      "created_at": "2017/02/07 11:09:12 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/839507101",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/839507101",
+      "group_id": 9007615,
+      "title": "Notification löschen",
+      "body": {
+        "parsed": "Notification können jetzt (natürlich) auch gelöscht werden.\n\n",
+        "plain": "Notification können jetzt (natürlich) auch gelöscht werden.",
+        "rich": "\u003Cp\u003ENotification können jetzt (natürlich) auch gelöscht werden.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 839507101,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 80943306,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/80943306",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/80943306",
+          "type": "image",
+          "name": "delete_notifications.gif",
+          "original_name": "delete_notifications.gif",
+          "full_name": "delete_notifications",
+          "description": "",
+          "content_type": "image/gif",
+          "content_class": "Image",
+          "created_at": "2017/02/07 11:08:53 +0000",
+          "owner_id": 1604180513,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/version/80857288/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/preview/delete_notifications.gif",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/version/80857288/large_preview/delete_notifications.gif",
+          "size": 412864,
+          "last_uploaded_at": "2017/02/07 11:09:02 +0000",
+          "last_uploaded_by_id": 1604180513,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/80943306/delete_notifications.gif",
+          "y_id": 80943306,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/version/80857288/preview/delete_notifications.gif",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 320,
+          "width": 640,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/version/80857288/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/80943306/preview/delete_notifications.gif",
+            "size": 412864,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/80943306/version/80857288/thumbnail"
+          },
+          "latest_version_id": 80857288,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 1,
+        "names": [
+          {
+            "full_name": "Robin Petrick",
+            "permalink": "robinpetrick",
+            "user_id": 1580999847,
+            "network_id": 3240736
+          }
+        ]
+      },
+      "content_excerpt": "Notification können jetzt (natürlich) auch gelöscht werden.",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 837334998,
+      "sender_id": 1604180513,
+      "replied_to_id": 837261397,
+      "created_at": "2017/02/02 13:09:04 +0000",
+      "network_id": 3240736,
+      "message_type": "update",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/837334998",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/837334998",
+      "group_id": 9007615,
+      "body": {
+        "parsed": "Diese \"Art von Materialgruppen\" wird aber noch nicht in z.B. Suchenanfragen verarbeitet.",
+        "plain": "Diese \"Art von Materialgruppen\" wird aber noch nicht in z.B. Suchenanfragen verarbeitet.",
+        "rich": "Diese \"Art von Materialgruppen\" wird aber noch nicht in z.B. Suchenanfragen verarbeitet."
+      },
+      "thread_id": 837261397,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "Diese \"Art von Materialgruppen\" wird aber noch nicht in z.B. Suchenanfragen verarbeitet.",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 837261397,
+      "sender_id": 1580999847,
+      "replied_to_id": null,
+      "created_at": "2017/02/02 10:52:56 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/837261397",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/837261397",
+      "group_id": 9007615,
+      "title": "Artikel mehreren Materialgruppen zuordnen",
+      "body": {
+        "urls": [
+          "http://pim.pewo.int/articles#/id/CO-SIG-00034"
+        ],
+        "parsed": "Im NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) http://pim.pewo.int/articles#/id/CO-SIG-00034\nDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer).\n\n",
+        "plain": "Im NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) http://pim.pewo.int/articles#/id/CO-SIG-00034\nDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer).",
+        "rich": "\u003Cp\u003EIm NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) \u003Ca href=\"http://pim.pewo.int/articles#/id/CO-SIG-00034\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003Ehttp://pim.pewo.int/articles#/id/CO-SIG-00034\u003C/a\u003E\u003C/p\u003E\u003Cp\u003EDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer).\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 837261397,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 80538654,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/80538654",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/80538654",
+          "type": "image",
+          "name": "Bildschirmfoto 2017-02-02 um 11.46.17.png",
+          "original_name": "Bildschirmfoto 2017-02-02 um 11.46.17.png",
+          "full_name": "Bildschirmfoto 2017-02-02 um 11.46.17",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/02/02 10:52:21 +0000",
+          "owner_id": 1580999847,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/version/80439494/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/preview/Bildschirmfoto%202017-02-02%20um%2011.46.17.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/version/80439494/large_preview/Bildschirmfoto%202017-02-02%20um%2011.46.17.png",
+          "size": 158630,
+          "last_uploaded_at": "2017/02/02 10:52:22 +0000",
+          "last_uploaded_by_id": 1580999847,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/80538654/Bildschirmfoto 2017-02-02 um 11.46.17.png",
+          "y_id": 80538654,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/version/80439494/preview/Bildschirmfoto%202017-02-02%20um%2011.46.17.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 1067,
+          "width": 983,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/version/80439494/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/80538654/preview/Bildschirmfoto%202017-02-02%20um%2011.46.17.png",
+            "size": 158630,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/80538654/version/80439494/thumbnail"
+          },
+          "latest_version_id": 80439494,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "Im NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) http://pim.pewo.int/articles#/id/CO-SIG-00034\nDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer).",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 833650923,
+      "sender_id": 1580999847,
+      "replied_to_id": null,
+      "created_at": "2017/01/26 18:28:49 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/833650923",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/833650923",
+      "group_id": 9007615,
+      "title": "Alternative Artikel aus NAV werden im PIM",
+      "body": {
+        "parsed": "In der Artikelliste zeigt ein Icon links neben der Artikelnummer auf den alternativen Artikel. Das Icon ist ein Link zur Artikelkarte. In den Details wird der alternative Artikel angezeigt.\n\n\n",
+        "plain": "In der Artikelliste zeigt ein Icon links neben der Artikelnummer auf den alternativen Artikel. Das Icon ist ein Link zur Artikelkarte. In den Details wird der alternative Artikel angezeigt.",
+        "rich": "\u003Cp\u003EIn der Artikelliste zeigt ein Icon links neben der Artikelnummer auf den alternativen Artikel. Das Icon ist ein Link zur Artikelkarte. In den Details wird der alternative Artikel angezeigt.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 833650923,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 79905659,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/79905659",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/79905659",
+          "type": "file",
+          "name": "Artikel alternativ.mov",
+          "original_name": "Artikel alternativ.mov",
+          "full_name": "Artikel alternativ",
+          "description": "",
+          "content_type": "video/quicktime",
+          "content_class": "Video",
+          "created_at": "2017/01/26 18:28:42 +0000",
+          "owner_id": 1580999847,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/video_blue_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/video_blue_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/version/79787124/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/preview/Artikel%20alternativ.mov",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/version/79787124/large_preview/Artikel%20alternativ.mp4",
+          "size": 4270373,
+          "last_uploaded_at": "2017/01/26 18:28:47 +0000",
+          "last_uploaded_by_id": 1580999847,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": true,
+          "streaming_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/version/79787124/stream",
+          "path": "3240736/79905659/Artikel alternativ.mov",
+          "y_id": 79905659,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/79905659/version/79787124/preview/Artikel%20alternativ.mp4",
+          "privacy": "public",
+          "group_id": 9007615,
+          "file": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/79905659/download",
+            "size": 4270373
+          },
+          "latest_version_id": 79787124,
+          "status": "encoded",
+          "msg": "",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "In der Artikelliste zeigt ein Icon links neben der Artikelnummer auf den alternativen Artikel. Das Icon ist ein Link zur Artikelkarte. In den Details wird der alternative Artikel angezeigt.",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 833639885,
+      "sender_id": 1580999847,
+      "replied_to_id": null,
+      "created_at": "2017/01/26 18:04:55 +0000",
+      "network_id": 3240736,
+      "message_type": "announcement",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/833639885",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/833639885",
+      "group_id": 9007615,
+      "title": "Serviceartikel Bemerkungen mit SAN aus NAV im PIM",
+      "body": {
+        "parsed": "IM PIM werden nun bei den gefertigten Anlagen die Bemerkungen des NAV-Serviceartikels angezeigt. Die Historie der Anlage ist somit sofort sichtbar.\n\n",
+        "plain": "IM PIM werden nun bei den gefertigten Anlagen die Bemerkungen des NAV-Serviceartikels angezeigt. Die Historie der Anlage ist somit sofort sichtbar.",
+        "rich": "\u003Cp\u003EIM PIM werden nun bei den gefertigten Anlagen die Bemerkungen des NAV-Serviceartikels angezeigt. Die Historie der Anlage ist somit sofort sichtbar.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E"
+      },
+      "thread_id": 833639885,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "public",
+      "attachments": [
+        {
+          "id": 79904084,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/79904084",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/79904084",
+          "type": "image",
+          "name": "PIM Bemerkungen Serviceartikel.png",
+          "original_name": "PIM Bemerkungen Serviceartikel.png",
+          "full_name": "PIM Bemerkungen Serviceartikel",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/01/26 18:03:44 +0000",
+          "owner_id": 1580999847,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/version/79785472/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/preview/PIM%20Bemerkungen%20Serviceartikel.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/version/79785472/large_preview/PIM%20Bemerkungen%20Serviceartikel.png",
+          "size": 463694,
+          "last_uploaded_at": "2017/01/26 18:03:46 +0000",
+          "last_uploaded_by_id": 1580999847,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/79904084/PIM Bemerkungen Serviceartikel.png",
+          "y_id": 79904084,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/version/79785472/preview/PIM%20Bemerkungen%20Serviceartikel.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 1230,
+          "width": 1664,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/version/79785472/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/79904084/preview/PIM%20Bemerkungen%20Serviceartikel.png",
+            "size": 463694,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/79904084/version/79785472/thumbnail"
+          },
+          "latest_version_id": 79785472,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        },
+        {
+          "id": 79904092,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/79904092",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/79904092",
+          "type": "image",
+          "name": "PIM Bemerkungen SAN.png",
+          "original_name": "PIM Bemerkungen SAN.png",
+          "full_name": "PIM Bemerkungen SAN",
+          "description": "",
+          "content_type": "image/png",
+          "content_class": "Image",
+          "created_at": "2017/01/26 18:03:57 +0000",
+          "owner_id": 1580999847,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/version/79785480/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/preview/PIM%20Bemerkungen%20SAN.png",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/version/79785480/large_preview/PIM%20Bemerkungen%20SAN.png",
+          "size": 99289,
+          "last_uploaded_at": "2017/01/26 18:03:58 +0000",
+          "last_uploaded_by_id": 1580999847,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/79904092/PIM Bemerkungen SAN.png",
+          "y_id": 79904092,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/version/79785480/preview/PIM%20Bemerkungen%20SAN.png",
+          "privacy": "public",
+          "group_id": 9007615,
+          "height": 505,
+          "width": 1158,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/version/79785480/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/79904092/preview/PIM%20Bemerkungen%20SAN.png",
+            "size": 99289,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/79904092/version/79785480/thumbnail"
+          },
+          "latest_version_id": 79785480,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "IM PIM werden nun bei den gefertigten Anlagen die Bemerkungen des NAV-Serviceartikels angezeigt. Die Historie der Anlage ist somit sofort sichtbar.",
+      "group_created_id": 9007615
+    },
+    {
+      "id": 815750242,
+      "sender_id": 1580999847,
+      "replied_to_id": null,
+      "created_at": "2016/12/16 11:06:05 +0000",
+      "network_id": 3240736,
+      "message_type": "update",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/815750242",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/815750242",
+      "group_id": 9601459,
+      "body": {
+        "parsed": "test",
+        "plain": "test",
+        "rich": "test"
+      },
+      "thread_id": 815750242,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "et",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "private",
+      "attachments": [
+
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "test",
+      "group_created_id": 9601459
+    },
+    {
+      "id": 788597812,
+      "sender_id": 1604180513,
+      "replied_to_id": null,
+      "created_at": "2016/10/26 11:40:44 +0000",
+      "network_id": 3240736,
+      "message_type": "update",
+      "sender_type": "user",
+      "url": "https://www.yammer.com/api/v1/messages/788597812",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/788597812",
+      "group_id": 9601459,
+      "body": {
+        "parsed": "Wenn man einen Artikel in der Artikel-Detailansicht anzeigt, kann man mittels Hoch/Runter Taste durch die Artikel-Liste navigieren.",
+        "plain": "Wenn man einen Artikel in der Artikel-Detailansicht anzeigt, kann man mittels Hoch/Runter Taste durch die Artikel-Liste navigieren.",
+        "rich": "Wenn man einen Artikel in der Artikel-Detailansicht anzeigt, kann man mittels Hoch/Runter Taste durch die Artikel-Liste navigieren."
+      },
+      "thread_id": 788597812,
+      "client_type": "Web",
+      "client_url": "https://www.yammer.com/",
+      "system_message": false,
+      "direct_message": false,
+      "chat_client_sequence": null,
+      "language": "de",
+      "notified_user_ids": [
+
+      ],
+      "privacy": "private",
+      "attachments": [
+        {
+          "id": 71861176,
+          "network_id": 3240736,
+          "url": "https://www.yammer.com/api/v1/uploaded_files/71861176",
+          "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/uploaded_files/71861176",
+          "type": "image",
+          "name": "keyboard_artikel_Liste.gif",
+          "original_name": "keyboard_artikel_Liste.gif",
+          "full_name": "keyboard_artikel_Liste",
+          "description": "",
+          "content_type": "image/gif",
+          "content_class": "Image",
+          "created_at": "2016/10/26 11:40:07 +0000",
+          "owner_id": 1604180513,
+          "owner_type": "user",
+          "official": false,
+          "small_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+          "large_icon_url": "https://s0.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+          "download_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/download",
+          "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/version/71516982/thumbnail",
+          "preview_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/preview/keyboard_artikel_Liste.gif",
+          "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/version/71516982/large_preview/keyboard_artikel_Liste.gif",
+          "size": 658495,
+          "last_uploaded_at": "2016/10/26 11:40:18 +0000",
+          "last_uploaded_by_id": 1604180513,
+          "last_uploaded_by_type": "user",
+          "uuid": null,
+          "transcoded": null,
+          "streaming_url": null,
+          "path": "3240736/71861176/keyboard_artikel_Liste.gif",
+          "y_id": 71861176,
+          "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/version/71516982/preview/keyboard_artikel_Liste.gif",
+          "privacy": "private",
+          "group_id": 9601459,
+          "height": 258,
+          "width": 480,
+          "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/version/71516982/scaled/{{width}}x{{height}}",
+          "image": {
+            "url": "https://www.yammer.com/api/v1/uploaded_files/71861176/preview/keyboard_artikel_Liste.gif",
+            "size": 658495,
+            "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/71861176/version/71516982/thumbnail"
+          },
+          "latest_version_id": 71516982,
+          "status": "not_ams",
+          "real_type": "uploaded_file"
+        }
+      ],
+      "liked_by": {
+        "count": 0,
+        "names": [
+
+        ]
+      },
+      "content_excerpt": "Wenn man einen Artikel in der Artikel-Detailansicht anzeigt, kann man mittels Hoch/Runter Taste durch die Artikel-Liste navigieren.",
+      "group_created_id": 9601459
+    }
+  ],
+  "references": [
+    {
+      "type": "user",
+      "id": 1604180513,
+      "name": "thorstenfentz",
+      "state": "active",
+      "full_name": "Thorsten Fentz",
+      "job_title": "",
+      "network_id": 3240736,
+      "mugshot_url": "https://mug0.assets-yammer.com/mugshot/images/48x48/TRCJCKmW9FCFqVwHvlgggSnKcMl93lKF",
+      "mugshot_url_template": "https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/TRCJCKmW9FCFqVwHvlgggSnKcMl93lKF",
+      "url": "https://www.yammer.com/api/v1/users/1604180513",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/users/1604180513",
+      "activated_at": "2016/10/26 09:46:39 +0000",
+      "auto_activated": true,
+      "stats": {
+        "following": 0,
+        "followers": 0,
+        "updates": 0
+      },
+      "email": "thorsten.fentz@pewo.de"
+    },
+    {
+      "type": "user",
+      "id": 1587459223,
+      "name": "mapet",
+      "state": "active",
+      "full_name": "Matthias Petrick",
+      "job_title": "Bereichsleiter",
+      "network_id": 3240736,
+      "mugshot_url": "https://mug0.assets-yammer.com/mugshot/images/48x48/ck0LzCpm2sll7Q7qlKF5jv4tdMJNChJb",
+      "mugshot_url_template": "https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/ck0LzCpm2sll7Q7qlKF5jv4tdMJNChJb",
+      "url": "https://www.yammer.com/api/v1/users/1587459223",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/users/1587459223",
+      "activated_at": "2016/07/26 12:42:26 +0000",
+      "auto_activated": true,
+      "stats": {
+        "following": 5,
+        "followers": 2,
+        "updates": 0
+      },
+      "email": "mapet@pewo.com"
+    },
+    {
+      "type": "user",
+      "id": 1580999847,
+      "name": "robinpetrick",
+      "state": "active",
+      "full_name": "Robin Petrick",
+      "job_title": "Geschäftsführer",
+      "network_id": 3240736,
+      "mugshot_url": "https://mug0.assets-yammer.com/mugshot/images/48x48/tqbPTjHBv8mBRRFwg4ZxTkQsx65-gMrs",
+      "mugshot_url_template": "https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/tqbPTjHBv8mBRRFwg4ZxTkQsx65-gMrs",
+      "url": "https://www.yammer.com/api/v1/users/1580999847",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/users/1580999847",
+      "activated_at": "2016/06/16 18:09:42 +0000",
+      "auto_activated": true,
+      "stats": {
+        "following": 5,
+        "followers": 6,
+        "updates": 0
+      },
+      "email": "robin.petrick@pewo.de"
+    },
+    {
+      "type": "message",
+      "url": "https://www.yammer.com/api/v1/messages/853618730",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/853618730",
+      "title": "Ansicht Geräte/Materialfinder konfigurieren",
+      "id": 853618730,
+      "sender_id": 1604180513,
+      "replied_to_id": null,
+      "created_at": "2017/03/03 11:20:17 +0000",
+      "network_id": 3240736,
+      "group_id": 9007615,
+      "sender_type": "user",
+      "thread_id": 853618730,
+      "message_type": "announcement",
+      "system_message": false,
+      "content_excerpt": "Der Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\nMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\n\nFür höhere Benutzergruppen gibt es die Möglichkeit die Sichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie zu definieren. (Setting / Kategorien)\n\nFilter:\n- angezeigt im primären, immer eingeblendeten Filterbereich = grün\n- angezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\n- wird nicht im Filter angezeigt = rot\nTabelle\n- angezeigt = grün\n- nicht angezeigt = rot",
+      "language": "de",
+      "privacy": "public",
+      "direct_message": false,
+      "body": {
+        "plain": "Der Material- und Gerätefinder soll dem Nutzer einen schnellen Zugriff auf Geräte und Material erlauben.\nMit zunehmender Pflege der Eigenschaften werden immer mehr Tabellenspalten angezeigt und der Filter wird immer überladener.\n\nFür höhere Benutzergruppen gibt es die Möglichkeit die Sichtbarkeit der Eigenschaften in Filter und Tabelle pro Materialgruppe und Kategorie zu definieren. (Setting / Kategorien)\n\nFilter:\n- angezeigt im primären, immer eingeblendeten Filterbereich = grün\n- angezeigt im sekundären standardmässig zugeklappten Filterbereich = gelb\n- wird nicht im Filter angezeigt = rot\nTabelle\n- angezeigt = grün\n- nicht angezeigt = rot"
+      }
+    },
+    {
+      "type": "message",
+      "url": "https://www.yammer.com/api/v1/messages/837261397",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/messages/837261397",
+      "title": "Artikel mehreren Materialgruppen zuordnen",
+      "id": 837261397,
+      "sender_id": 1580999847,
+      "replied_to_id": null,
+      "created_at": "2017/02/02 10:52:56 +0000",
+      "network_id": 3240736,
+      "group_id": 9007615,
+      "sender_type": "user",
+      "thread_id": 837261397,
+      "message_type": "announcement",
+      "system_message": false,
+      "content_excerpt": "Im NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) http://pim.pewo.int/articles#/id/CO-SIG-00034\nDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer).",
+      "language": "de",
+      "privacy": "public",
+      "direct_message": false,
+      "body": {
+        "plain": "Im NAV können Artikel nur einer Materialgruppe zugeordnet werden. Wir haben jedoch Komponenten, die neben einer Hauptfunktion weitere Funktionen abbilden. Zum Bsp. CO-SIG-00034  (Sicherheitsventil DN15 3bar mit Zubehör bis 50kW m. AG-Anschl. f. KB20-506) http://pim.pewo.int/articles#/id/CO-SIG-00034\nDer Artikel gehört in die Materialgruppe SHV. Im PIM können nun weitere Materialgruppen als Tag ergänzt werden. In diesem Fall: PI (Manometer) und DSM (Druckstoßminderer)."
+      }
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/854474768",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/854474768",
+      "type": "thread",
+      "id": 854474768,
+      "network_id": 3240736,
+      "thread_starter_id": 854474768,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 20845640,
+          "type": "topic"
+        },
+        {
+          "id": 20845640,
+          "type": "topic"
+        },
+        {
+          "id": 20892512,
+          "type": "topic"
+        },
+        {
+          "id": 20892512,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 854474768,
+        "latest_reply_at": "2017/03/06 09:11:10 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/853618730",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/853618730",
+      "type": "thread",
+      "id": 853618730,
+      "network_id": 3240736,
+      "thread_starter_id": 853618730,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 20845642,
+          "type": "topic"
+        },
+        {
+          "id": 19857183,
+          "type": "topic"
+        },
+        {
+          "id": 20845641,
+          "type": "topic"
+        },
+        {
+          "id": 20845640,
+          "type": "topic"
+        },
+        {
+          "id": 20845640,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 3,
+        "first_reply_id": 853638256,
+        "first_reply_at": "2017/03/03 11:59:27 +0000",
+        "latest_reply_id": 853645763,
+        "latest_reply_at": "2017/03/03 12:13:15 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/839507101",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/839507101",
+      "type": "thread",
+      "id": 839507101,
+      "network_id": 3240736,
+      "thread_starter_id": 839507101,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 20140540,
+          "type": "topic"
+        },
+        {
+          "id": 20140540,
+          "type": "topic"
+        },
+        {
+          "id": 17753963,
+          "type": "topic"
+        },
+        {
+          "id": 17753963,
+          "type": "topic"
+        },
+        {
+          "id": 19857183,
+          "type": "topic"
+        },
+        {
+          "id": 19857183,
+          "type": "topic"
+        },
+        {
+          "id": 19857184,
+          "type": "topic"
+        },
+        {
+          "id": 19857184,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 839507101,
+        "latest_reply_at": "2017/02/07 11:09:12 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/837261397",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/837261397",
+      "type": "thread",
+      "id": 837261397,
+      "network_id": 3240736,
+      "thread_starter_id": 837261397,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 20058110,
+          "type": "topic"
+        },
+        {
+          "id": 20058110,
+          "type": "topic"
+        },
+        {
+          "id": 20058109,
+          "type": "topic"
+        },
+        {
+          "id": 20058109,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 2,
+        "first_reply_id": 837334998,
+        "first_reply_at": "2017/02/02 13:09:04 +0000",
+        "latest_reply_id": 837334998,
+        "latest_reply_at": "2017/02/02 13:09:04 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/833650923",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/833650923",
+      "type": "thread",
+      "id": 833650923,
+      "network_id": 3240736,
+      "thread_starter_id": 833650923,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 19856601,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753963,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 833650923,
+        "latest_reply_at": "2017/01/26 18:28:49 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/833639885",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/833639885",
+      "type": "thread",
+      "id": 833639885,
+      "network_id": 3240736,
+      "thread_starter_id": 833639885,
+      "group_id": 9007615,
+      "topics": [
+        {
+          "id": 19856601,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 19882786,
+          "type": "topic"
+        }
+      ],
+      "privacy": "public",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 833639885,
+        "latest_reply_at": "2017/01/26 18:04:55 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/815750242",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/815750242",
+      "type": "thread",
+      "id": 815750242,
+      "network_id": 3240736,
+      "thread_starter_id": 815750242,
+      "group_id": 9601459,
+      "topics": [
+        {
+          "id": 19038745,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        }
+      ],
+      "privacy": "private",
+      "direct_message": false,
+      "has_attachments": false,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 815750242,
+        "latest_reply_at": "2016/12/16 11:06:05 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "url": "https://www.yammer.com/api/v1/messages/in_thread/788597812",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/threads/788597812",
+      "type": "thread",
+      "id": 788597812,
+      "network_id": 3240736,
+      "thread_starter_id": 788597812,
+      "group_id": 9601459,
+      "topics": [
+        {
+          "id": 17754007,
+          "type": "topic"
+        },
+        {
+          "id": 17753964,
+          "type": "topic"
+        },
+        {
+          "id": 17753964,
+          "type": "topic"
+        },
+        {
+          "id": 17753963,
+          "type": "topic"
+        },
+        {
+          "id": 17753963,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        },
+        {
+          "id": 17753962,
+          "type": "topic"
+        }
+      ],
+      "privacy": "private",
+      "direct_message": false,
+      "has_attachments": true,
+      "stats": {
+        "updates": 1,
+        "first_reply_id": null,
+        "first_reply_at": null,
+        "latest_reply_id": 788597812,
+        "latest_reply_at": "2016/10/26 11:40:44 +0000",
+        "shares": 0
+      },
+      "invited_user_ids": [
+
+      ],
+      "read_only": false
+    },
+    {
+      "type": "group",
+      "id": 9007615,
+      "email": "pim+pewo365.onmicrosoft.com@yammer.com",
+      "full_name": "PIM",
+      "network_id": 3240736,
+      "name": "pim",
+      "description": "Entwicklung und Release Informationen",
+      "privacy": "public",
+      "url": "https://www.yammer.com/api/v1/groups/9007615",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/#/threads/inGroup?type=in_group\u0026feedId=9007615",
+      "mugshot_url": "https://mug0.assets-yammer.com/mugshot/images/48x48/xPg-GVh8dCkrC4sfJf7ClSV0MsV0RN7L",
+      "mugshot_url_template": "https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/xPg-GVh8dCkrC4sfJf7ClSV0MsV0RN7L",
+      "mugshot_id": "xPg-GVh8dCkrC4sfJf7ClSV0MsV0RN7L",
+      "show_in_directory": "true",
+      "created_at": "2016/08/29 09:10:38 +0000",
+      "members": 8,
+      "color": "#3e7e98",
+      "external": false,
+      "moderated": false
+    },
+    {
+      "type": "group",
+      "id": 9601459,
+      "email": "testsolongo+pewo365.onmicrosoft.com@yammer.com",
+      "full_name": "TESTsolongo",
+      "network_id": 3240736,
+      "name": "testsolongo",
+      "description": null,
+      "privacy": "private",
+      "url": "https://www.yammer.com/api/v1/groups/9601459",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/#/threads/inGroup?type=in_group\u0026feedId=9601459",
+      "mugshot_url": "https://mug0.assets-yammer.com/mugshot/images/48x48/group_profile.png",
+      "mugshot_url_template": "https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/group_profile.png",
+      "mugshot_id": null,
+      "show_in_directory": "true",
+      "created_at": "2016/10/26 10:08:28 +0000",
+      "members": 2,
+      "color": "#5c4584",
+      "external": false,
+      "moderated": true
+    },
+    {
+      "type": "topic",
+      "id": 20845640,
+      "network_id": 3240736,
+      "name": "1.22",
+      "normalized_name": "1.22",
+      "permalink": "1.22",
+      "url": "https://www.yammer.com/api/v1/topics/20845640",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20845640"
+    },
+    {
+      "type": "topic",
+      "id": 20892512,
+      "network_id": 3240736,
+      "name": "Indi Anlagen",
+      "normalized_name": "indi_anlagen",
+      "permalink": "indi_anlagen",
+      "url": "https://www.yammer.com/api/v1/topics/20892512",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20892512"
+    },
+    {
+      "type": "topic",
+      "id": 17753962,
+      "network_id": 3240736,
+      "name": "Pim",
+      "normalized_name": "pim",
+      "permalink": "pim",
+      "url": "https://www.yammer.com/api/v1/topics/17753962",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/17753962"
+    },
+    {
+      "type": "topic",
+      "id": 20845642,
+      "network_id": 3240736,
+      "name": "Kategorien",
+      "normalized_name": "kategorien",
+      "permalink": "kategorien",
+      "url": "https://www.yammer.com/api/v1/topics/20845642",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20845642"
+    },
+    {
+      "type": "topic",
+      "id": 19857183,
+      "network_id": 3240736,
+      "name": "Einstellungen",
+      "normalized_name": "einstellungen",
+      "permalink": "einstellungen",
+      "url": "https://www.yammer.com/api/v1/topics/19857183",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/19857183"
+    },
+    {
+      "type": "topic",
+      "id": 20845641,
+      "network_id": 3240736,
+      "name": "Finder",
+      "normalized_name": "finder",
+      "permalink": "finder",
+      "url": "https://www.yammer.com/api/v1/topics/20845641",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20845641"
+    },
+    {
+      "type": "topic",
+      "id": 20140540,
+      "network_id": 3240736,
+      "name": "1.21",
+      "normalized_name": "1.21",
+      "permalink": "1.21",
+      "url": "https://www.yammer.com/api/v1/topics/20140540",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20140540"
+    },
+    {
+      "type": "topic",
+      "id": 17753963,
+      "network_id": 3240736,
+      "name": "Artikel",
+      "normalized_name": "artikel",
+      "permalink": "artikel",
+      "url": "https://www.yammer.com/api/v1/topics/17753963",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/17753963"
+    },
+    {
+      "type": "topic",
+      "id": 19857184,
+      "network_id": 3240736,
+      "name": "Notification",
+      "normalized_name": "notification",
+      "permalink": "notification",
+      "url": "https://www.yammer.com/api/v1/topics/19857184",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/19857184"
+    },
+    {
+      "type": "topic",
+      "id": 20058110,
+      "network_id": 3240736,
+      "name": "Komponente",
+      "normalized_name": "komponente",
+      "permalink": "komponente",
+      "url": "https://www.yammer.com/api/v1/topics/20058110",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20058110"
+    },
+    {
+      "type": "topic",
+      "id": 20058109,
+      "network_id": 3240736,
+      "name": "Materialgruppe",
+      "normalized_name": "materialgruppe",
+      "permalink": "materialgruppe",
+      "url": "https://www.yammer.com/api/v1/topics/20058109",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/20058109"
+    },
+    {
+      "type": "topic",
+      "id": 19856601,
+      "network_id": 3240736,
+      "name": "1.19",
+      "normalized_name": "1.19",
+      "permalink": "1.19",
+      "url": "https://www.yammer.com/api/v1/topics/19856601",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/19856601"
+    },
+    {
+      "type": "topic",
+      "id": 19882786,
+      "network_id": 3240736,
+      "name": "Serviceartikel",
+      "normalized_name": "serviceartikel",
+      "permalink": "serviceartikel",
+      "url": "https://www.yammer.com/api/v1/topics/19882786",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/19882786"
+    },
+    {
+      "type": "topic",
+      "id": 19038745,
+      "network_id": 3240736,
+      "name": "Baugruppe",
+      "normalized_name": "baugruppe",
+      "permalink": "baugruppe",
+      "url": "https://www.yammer.com/api/v1/topics/19038745",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/19038745"
+    },
+    {
+      "type": "topic",
+      "id": 17754007,
+      "network_id": 3240736,
+      "name": "1.16",
+      "normalized_name": "1.16",
+      "permalink": "1.16",
+      "url": "https://www.yammer.com/api/v1/topics/17754007",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/17754007"
+    },
+    {
+      "type": "topic",
+      "id": 17753964,
+      "network_id": 3240736,
+      "name": "Detail",
+      "normalized_name": "detail",
+      "permalink": "detail",
+      "url": "https://www.yammer.com/api/v1/topics/17753964",
+      "web_url": "https://www.yammer.com/pewo365.onmicrosoft.com/topics/17753964"
+    }
+  ],
+  "external_references": [
+
+  ],
+  "meta": {
+    "older_available": false,
+    "requested_poll_interval": 60,
+    "realtime": {
+      "uri": "https://1-3240736-1604180513-989.rt.yammer.com/cometd/",
+      "authentication_token": "esn7PaIWxdvEl0tTo5g4KPtjMSItPh2In1Qypc4mVg14nKtWKi1OLVKyMjQzMDG0MDA1NNZRykstKc8vylayMjYyMTA3NtNRSq0oyCyqBKoysTQysLA0MTOvBQDPrA+t",
+      "channel_id": "MjA6MzI0MDczNjoxNzc1Mzk2Mg"
+    },
+    "last_seen_message_id": null,
+    "current_user_id": 1604180513,
+    "followed_references": [
+      {
+        "type": "uploaded_file",
+        "id": 83512195
+      },
+      {
+        "type": "uploaded_file",
+        "id": 83331632
+      },
+      {
+        "type": "uploaded_file",
+        "id": 83331655
+      },
+      {
+        "type": "uploaded_file",
+        "id": 80943306
+      },
+      {
+        "type": "uploaded_file",
+        "id": 71861176
+      }
+    ],
+    "ymodules": [
+
+    ],
+    "newest_message_details": null,
+    "feed_name": "Pim",
+    "feed_desc": "Messages in topic Pim",
+    "direct_from_body": false
+  }
+}
